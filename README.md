@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 18:05:2024
-## Register Number:212223110033
-## Name:OVIYA P
+# Date: 16:05:2025
+## Register Number:212223040212
+## Name:SUJITHRA K
 
 ## Problem Title 
 
@@ -31,16 +31,14 @@ Provide e-waste facilities with a dashboard showcasing real-time analytics and i
 
 
 
-
-
-
-
-
 ## Proposed Solution / Architecture Diagram
-![alt text](image-1.png)
+
+![image-1](https://github.com/user-attachments/assets/dc1d2681-be6d-4e99-a7c7-45fac90bdce8)
 
 ## Use Cases
-![alt text](10-2.jpg)
+
+![10-2](https://github.com/user-attachments/assets/5dacc936-1f4d-4406-a2c2-f2a258075b8e)
+
 
 ## Technology Stack
 React.js
